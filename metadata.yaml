@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9117'
     url: http://www.gutenberg.org/2009/agents/9117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20165#The-Theory-and-Practice-of-Perspective
 gutenberg_issued: '2006-12-22'
 gutenberg_type: Text
 identifiers:
